@@ -1,0 +1,12 @@
+.a{
+    background-color: grey;
+    width: 300px;
+}
+.b {
+    background-color: #f0e8e8;
+    width: 300px;
+}
+
+ul {
+    list-style-type: none;
+}
